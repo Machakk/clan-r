@@ -43,8 +43,8 @@ nav a {
     font-size: 40px;
     color: #4d4d4d4d;
     display: block;
-    line-height: 51px;
-    margin: 51px;
+    line-height: 91px;
+    margin: auto;
     position: relative;
     text-decoration: none;
 }
@@ -57,4 +57,27 @@ nav a svg:hover {
 
 a.active svg {
     color: rgb(255, 0, 0);
+}
+
+/* contact icons botton */
+ul {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    display: block;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+li a {
+    padding: 7px 0;
+    display: block;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+li a svg:hover {
+    text-decoration: none;
+    color: #a5c711;
 }

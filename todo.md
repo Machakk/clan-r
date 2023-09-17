@@ -29,3 +29,5 @@ remove fa icons and import wot icons
 - sidebar.css - redo the styles
 
 fix svg fa icons for linkedin and github
+
+links attribute ref error - fix links

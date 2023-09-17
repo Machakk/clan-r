@@ -26,7 +26,12 @@ const Siderbar = () => {
             </nav>
             <ul>
                 <li>
-                    <a>
+                    <a target="_blank" href="https://google.com">
+                        <FontAwesomeIcon icon={faWon} color="#fff" />
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://google.com">
                         <FontAwesomeIcon icon={faWon} color="#fff" />
                     </a>
                 </li>
