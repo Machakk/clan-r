@@ -1,7 +1,4 @@
 
-
-
-
 ##okay
 npm i --save @fortawesome/fontawesome-svg-core
 npm install --save @fortawesome/free-solid-svg-icons
@@ -20,3 +17,15 @@ gsap-trial
 react-leaflet [location by user ip]
 npm i --save react-loaders loaders.css
 sass
+
+
+
+
+
+#TODO
+
+remove fa icons and import wot icons
+
+- sidebar.css - redo the styles
+
+fix svg fa icons for linkedin and github
