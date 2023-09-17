@@ -1,0 +1,22 @@
+
+
+
+
+##okay
+npm i --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/react-fontawesome
+loader.css
+react-router-dom
+
+
+
+
+
+##optionally
+@emailjs/browser
+animate css
+gsap-trial
+react-leaflet [location by user ip]
+npm i --save react-loaders loaders.css
+sass
