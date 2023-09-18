@@ -4,8 +4,7 @@ import LogoRemove from './../../assets/images/logo.png';
 import { NavLink } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 // import free brands 
-import { f08, faAmericanSignLanguageInterpreting, faWon } from '@fortawesome/free-solid-svg-icons';
-import { faContactCard, faHome, faPersonMilitaryToPerson } from '@fortawesome/free-solid-svg-icons';
+import { faContactCard, faHome, faPersonMilitaryToPerson, faWon } from '@fortawesome/free-solid-svg-icons';
 
 const Siderbar = () => {
     return (
