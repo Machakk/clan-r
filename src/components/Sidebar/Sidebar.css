@@ -21,7 +21,7 @@
     background: #181818;
     width: 60px;
     height: 100%;
-    position: absolute;
+    position: fixed;
     z-index: 3;
     min-height: 500px;
 }
